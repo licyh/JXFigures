@@ -1,0 +1,6 @@
+16/06/17 11:57:57 INFO fs.TestDFSIO:     Test exec time sec: 45.832
+16/06/17 11:59:36 INFO fs.TestDFSIO:     Test exec time sec: 44.483
+16/06/17 12:01:25 INFO fs.TestDFSIO:     Test exec time sec: 45.908
+16/06/17 12:03:08 INFO fs.TestDFSIO:     Test exec time sec: 41.323
+16/06/17 12:04:48 INFO fs.TestDFSIO:     Test exec time sec: 42.895
+16/06/17 12:06:29 INFO fs.TestDFSIO:     Test exec time sec: 43.806
